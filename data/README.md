@@ -1,1 +1,1 @@
-A location with the demo data
+A location where the demo data will be placed
