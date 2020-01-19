@@ -1,3 +1,7 @@
 numpy
 pandas
 plotly
+seaborn
+scikit-learn
+nodejs
+npm
