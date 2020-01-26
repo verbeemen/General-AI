@@ -82,7 +82,7 @@ class Data2Plot:
         self.frame_labels.append(label)
             
     def get_frame_label(self, index):
-        return self.frame_labels[index]
+        return self.frame_labels[index] if len(self.frame_labels) > 0 else index
             
             
 def create_dynamic_h_plot(data2plot, title="demo", x_axis_1=None, y_axis_1=None, x_range_1=None, y_range_1=None, **args):
