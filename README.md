@@ -4,6 +4,12 @@ Standalone Jupiter notebooks
 https://datascience.stackexchange.com/questions/14118/linear-regression-lms-with-gradient-descent-vs-normal-equations/14119
 
 
+1. Levene's test
+2. Anova 1 way test
+3. Kruskal-Wallis test
+4. Kolmorogov-Smirnov test
+
+
 # Plotly visualizations - in Jupyter lab:
 
 ### 1) Install software

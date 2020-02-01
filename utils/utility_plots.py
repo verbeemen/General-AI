@@ -81,7 +81,7 @@ class Data2Plot:
     def add_frame_label(self, label):
         self.frame_labels.append(label)
             
-    def get_frame_label(self, index):
+    def get_frame_label(self, index): 
         return self.frame_labels[index] if len(self.frame_labels) > 0 else index
             
             
